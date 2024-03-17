@@ -1,0 +1,86 @@
+h1{
+    color: yellowgreen;
+    border: solid 5px;
+    border-color:whitesmoke;
+}
+body{
+   /* background-image:url("https://www.freecodecamp.org/news/content/images/size/w2000/2021/07/kobu-agency-ipARHaxETRk-unsplash.jpg") ;
+    background-image:url("https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xMuIOwjliGUPjkzukeWKfw.jpeg");
+    background-image: url("https://blog.logrocket.com/wp-content/uploads/2023/01/css-full-page-background.png");*/
+    background-color: rgb(18, 13, 13);
+    color: white;
+    font-family: 'Roboto';font-size: 22px;
+}
+
+a:visited{
+    color: brown;
+}
+
+.square ul{
+    List-style-type:none;
+}
+.square li{
+    display:inline-block;
+    margin-right:10px;
+    border: solid
+}
+.square a{
+    text-decoration:solid;
+    color: yellowgreen;
+    padding:5px 10px;
+
+}
+a:link{
+    color:yellowgreen;
+}
+a:hover{
+    color:red;
+}
+
+p{
+    background-position: 100px;
+    border: groove;
+    border-color: aliceblue;
+    box-sizing: border-box;
+    
+}
+h2{
+    color: yellowgreen;
+    border:dashed;
+    border-color: whitesmoke;
+
+}
+article dl{
+    margin-bottom: 20px;
+
+}
+article dt{
+    font-weight: bold;letter-spacing: normal;
+    text-decoration: underline;
+    color: red;
+}
+article ol{
+    list-style-type: decimal;
+    padding-left: 20px;
+}
+article dd{
+    margin-bottom:5px;
+}
+
+article li{
+    color: yellowgreen;
+}
+
+nav table{
+    border:red;
+}
+nav tr{
+    color:yellowgreen;
+}
+nav td{
+    color:white;
+}
+.well{
+    color:rgb(200, 145, 35);
+}
+
